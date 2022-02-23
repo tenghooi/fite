@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>occupancy_mapping</name>
+  <name>fite</name>
   <version>0.0.1</version>
-  <description> occupancy_mapping </description>
+  <description> Fast Incremental Truncated and Euclidean Signed Distance Fields Update </description>
   <maintainer email="chantenghooi@gmail.com">tenghooi</maintainer>
   <license>BSD</license>
 
